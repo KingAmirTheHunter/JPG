@@ -1,0 +1,1 @@
+window.alert("KingWuzH3r3");
